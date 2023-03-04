@@ -1,2 +1,2 @@
-# mcm-switch-rainmaker
-Smart Switch code for the ESP32C3 with RainMaker
+# MCM Switch RainMaker
+Smart Switch code for the Xiao ESP32C3 with ESP RainMaker
