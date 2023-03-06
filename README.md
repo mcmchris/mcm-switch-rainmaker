@@ -8,7 +8,7 @@ Smart Switch code for the Xiao ESP32C3 with ESP RainMaker
 | D0              | Button   |
 | D7              | Relay and Triac output   |
 
-![Github image](https://user-images.githubusercontent.com/49886387/223121266-b73ec645-4c20-44f2-a1c1-20286dffe104.jpg)
+![Portada real](https://user-images.githubusercontent.com/49886387/223277694-955ae05d-f262-428f-b522-8841e7755d1d.jpg)
 
 ## Parts list
 
